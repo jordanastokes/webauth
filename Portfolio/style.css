@@ -1,0 +1,92 @@
+body {
+	background-color:#FFFFFF;
+	color:#c0c0c0;
+	}
+	
+p {
+  font-size: 10px;
+  color:#050505;
+}
+
+section p{
+  font-size: 24px;
+  text-align:center;
+  clear:both;
+}
+
+
+h1, nav {
+  text-align: left;
+	font-size:48px;
+	color:#050505;
+  font-family: Perpetua Titling MT Light;
+	}
+
+
+button {
+  font-family: Tamil MN Regular;
+  font-size:16px;
+  color:#93857;
+  background-color:#FFFFFF;
+  vertical-align:middle;
+  margin-right:0;
+  margin-left:0;
+	}
+ 
+
+h3 {
+	font-size:16px;
+	color:#336699;
+	background-color:#3C694F;
+	}
+h4, h5, h6 {
+	font-size:18px;
+	color:#ff88ff;
+	background-color:#222222;
+	}
+
+a {
+	text-decoration:none;
+	color:#ffffff;
+	}
+	
+a:hover {
+	color:#00ff00;
+	}
+
+img {
+  height: 55px;
+  align: center;
+}
+
+header {
+  background-color:#EBE1D2;
+  height:100px;
+}
+
+header h1 {
+  display:block;
+  float:left;
+  margin-top:0;
+  padding:20px;
+}
+
+header nav {
+  display:block;
+  float:right;
+  margin-top:0;
+  padding:20px;
+}
+
+header nav ul {
+  list-style-type:none;
+  margin:0;
+}
+
+header nav ul li {
+  text-decoration:none;
+  display:block;
+  float:left;
+  margin-left:10px;
+  margin-right:10px;
+}
