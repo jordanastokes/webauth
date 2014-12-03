@@ -24,12 +24,11 @@ section p:first-child {
   text-align:center;
   clear:both;
   font-family:Garamond;
-  color:#898080;
+  color:#9B9595;
 }
 
 section p:nth-child(3) {
   text-align:right;
-  color: #F65317;
   font-size:20px;
   font-family: Garamond, sans-serif;
 }
