@@ -141,11 +141,12 @@ section ul li {
 
 a:visited {
     text-decoration: none;
+    color:#050505;
 }
 
 a:hover {
     text-decoration: none;
-    color: #F65317;
+    color: #c0c0c0;
 }
 
 a:active {
