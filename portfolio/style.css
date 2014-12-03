@@ -151,8 +151,9 @@ section ul li {
 }
      
 #resume {
-    width:600px;
-    height:1000px;
+    width:800px;
+    height:1050px;
+    text-align:center;
     }
      
  a:link {
