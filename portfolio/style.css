@@ -139,7 +139,8 @@ section ul li {
       height:200px;
       width:140px;
       float:left;
-      margin:70px;
+      margin-left:70px;
+      margin-right:70px;
       font-family:Garamond;
       padding-bottom;20px;
       }
