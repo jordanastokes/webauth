@@ -135,9 +135,10 @@ section ul li {
      }
 
 #thumbnail {
-      height:205px;
-      width:150px;
+      height:200px;
+      width:140px;
       float:left;
+      margin:5px;
       }
 #projects {
      float:right;
