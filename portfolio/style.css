@@ -139,9 +139,9 @@ section ul li {
       height:200px;
       width:140px;
       float:left;
-      margin:20px;
+      margin-right:70px;
       font-family:Garamond;
-      padding-bottom;50px;
+      padding-bottom;20px;
       }
 #projects {
      text-align:justify;
