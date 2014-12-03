@@ -139,11 +139,13 @@ section ul li {
       width:140px;
       float:left;
       margin:5px;
+      font-family:Garamond;
       }
 #projects {
      float:right;
      color:#050505
      font-size:14px;
+     font-family:Garamond;
      }
      
  a:link {
