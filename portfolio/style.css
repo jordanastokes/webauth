@@ -88,6 +88,11 @@ header nav {
 header nav ul {
   list-style-type:none;
   margin:0;
+  
+section ul {
+   list-style-type:none;
+   text decoration:none;
+   display;block;
 }
 
 header nav ul li {
@@ -97,5 +102,5 @@ header nav ul li {
   margin-left:10px;
   margin-right:10px;
   font-size:22px;
-  font-family: Perpetua Titling MT Light;  
+  font-family: Garamond;  
 }
