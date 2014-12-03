@@ -98,3 +98,8 @@ header nav ul li {
   font-size:22px;
   font-family: Garamond;  
 }
+
+section ul li {
+   align:left;
+   width:250px;
+   }
