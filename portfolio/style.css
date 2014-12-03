@@ -152,8 +152,11 @@ section ul li {
      font-family:Garamond;
      text-justify:interword;
      padding-bottom:30px;
-     
      }
+     
+object {
+    background-color:#DED8D6;
+    }
      
  a:link {
     text-decoration: none;
