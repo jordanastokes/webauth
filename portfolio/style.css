@@ -139,6 +139,9 @@ section ul li {
       width:150px;
       float:left;
       }
+#projects {
+     float:right;
+     }
      
  a:link {
     text-decoration: none;
