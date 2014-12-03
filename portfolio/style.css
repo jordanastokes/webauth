@@ -142,7 +142,7 @@ section ul li {
       font-family:Garamond;
       }
 #projects {
-     float:right;
+     text-align:right;
      color:#050505
      font-size:14px;
      font-family:Garamond;
