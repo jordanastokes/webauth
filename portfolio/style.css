@@ -130,7 +130,7 @@ section ul li {
      text-align: center;
      }
      
-.contact2 {
+.email {
     text-align: center;
     color:#F65317
     }
@@ -158,7 +158,7 @@ section ul li {
 #resume {
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
     width:800px;
     height:1050px;
     text-align:center;
