@@ -18,7 +18,6 @@ p {
   text-align:right;
   margin-right: 50px;
 }
-
 section p:first-child {
   font-size: 48px;
   text-align:center;
@@ -37,7 +36,7 @@ h1, nav {
   text-align: left;
 	font-size:48px;
 	color: #050505;
-  font-family: Impact, Charcoal, sans-serif;
+  font-family:Impact, sans-serif;
 	}
  
 
