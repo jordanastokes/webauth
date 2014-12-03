@@ -104,13 +104,19 @@ header nav ul li {
 #mqt {
    align:left;
    width:250px;
+   height:250px;
    }
    
 section ul li {
    list-style-type:none;
    margin-left:30px;
+   display: block;
    }
+   
+#vert {
+    align:center;
+    width:250px;
+    heignt:400px;
+    }
 
-#caption {
-     margin:60px;
-     }
+
