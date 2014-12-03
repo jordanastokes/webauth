@@ -141,6 +141,8 @@ section ul li {
       }
 #projects {
      float:right;
+     color:#050505
+     font-size:14px;
      }
      
  a:link {
