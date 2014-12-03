@@ -19,6 +19,20 @@ p {
   margin-right: 50px;
 }
 
+section p:first-child {
+  font-size: 48px;
+  text-align:center;
+  clear:both;
+  font-family:Garamond;
+  color:#898080;
+}
+section p:nth-child(3) {
+  text-align:right;
+  color: #F65317;
+  font-size:20px;
+  font-family: Garamond, sans-serif;
+}
+
 h1, nav {
   text-align: left;
 	font-size:48px;
