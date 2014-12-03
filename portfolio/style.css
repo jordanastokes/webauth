@@ -25,10 +25,11 @@ section p:first-child {
   font-family:Garamond;
   color:#898080;
 }
-section p:nth-child(3) {
+
+section p:nth-child(2) {
   text-align:right;
   color: #F65317;
-  font-size:20px;
+  font-size: 20px;
   font-family: Garamond, sans-serif;
 }
 
