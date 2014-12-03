@@ -104,13 +104,12 @@ header nav ul li {
 #mqt {
    align:left;
    width:250px;
-   height:250px;
+   height:200px;
    }
    
 section ul li {
    list-style-type:none;
    margin-left:30px;
-   display: block;
    }
    
 #vert {
