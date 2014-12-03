@@ -46,11 +46,6 @@ h3 {
 	background-color:#3C694F;
 }
 
-h4, h5, h6 {
-	font-size:18px;
-	color:#ff88ff;
-	background-color:#222222;
-}
 
 h2 {
    font-size:16px;
@@ -145,6 +140,7 @@ section ul li {
       font-family:Garamond;
       padding-bottom;50px;
       }
+      
 #projects {
      text-align:justify;
      color:#050505
@@ -152,7 +148,7 @@ section ul li {
      font-family:Garamond;
      text-justify:interword;
      padding-bottom:30px;
-     }
+}
      
 object {
     background-color:#DED8D6;
