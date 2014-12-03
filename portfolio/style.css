@@ -18,6 +18,7 @@ p {
   text-align:right;
   margin-right: 50px;
 }
+
 section p:first-child {
   font-size: 48px;
   text-align:center;
@@ -38,19 +39,19 @@ h1, nav {
 	font-size:48px;
 	color: #050505;
     font-family:Impact, sans-serif;
-	}
- 
+}
 
 h3 {
 	font-size:16px;
 	color:#336699;
 	background-color:#3C694F;
-	}
+}
+
 h4, h5, h6 {
 	font-size:18px;
 	color:#ff88ff;
 	background-color:#222222;
-	}
+}
 
 
 .head {
@@ -88,6 +89,7 @@ header nav {
 header nav ul {
   list-style-type:none;
   margin:0;
+  }
 
 header nav ul li {
   text-decoration:none;
