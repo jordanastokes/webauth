@@ -108,4 +108,9 @@ header nav ul li {
    
 section ul li {
    list-style-type:none;
+   margin-left:30px;
    }
+
+.caption {
+     text-align:center;
+     }
