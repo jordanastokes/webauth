@@ -150,8 +150,9 @@ section ul li {
      padding-bottom:30px;
 }
      
-object {
-    background-color:#DED8D6;
+#resume {
+    width:600px;
+    height:1000px;
     }
      
  a:link {
