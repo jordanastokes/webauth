@@ -142,9 +142,9 @@ section ul li {
       font-family:Garamond;
       }
 #projects {
-     text-align: justify, right;
+     text-align:justify;
      color:#050505
-     font-size:14px;
+     font-size:12px;
      font-family:Garamond;
      text-justify:interword;
      }
