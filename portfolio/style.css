@@ -133,3 +133,24 @@ section ul li {
 .contact {
      text-align: center;
      }
+     
+ a:link {
+    text-decoration: none;
+    color:#050505;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #F65317;
+}
+
+a:active {
+    text-decoration: underline;
+    color: #F65317
+    
+}    
+     
