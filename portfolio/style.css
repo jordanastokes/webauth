@@ -133,6 +133,12 @@ section ul li {
 .contact {
      text-align: center;
      }
+
+.thumbnail {
+      height:150px;
+      width:150px;
+      float:left;
+      }
      
  a:link {
     text-decoration: none;
