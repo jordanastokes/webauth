@@ -17,6 +17,7 @@ p {
   color:#050505;
   text-align:right;
   margin-right: 50px;
+  float:right;
 }
 
 section p:first-child {
@@ -76,6 +77,7 @@ header h1 {
 #me {
   width:500px;
   margin-left:50px;
+  float:left;
 }
 
 header nav {
@@ -104,7 +106,7 @@ header nav ul li {
 #mqt {
    align:left;
    width:250px;
-   height:200px;
+   height:175px;
    }
    
 section ul li {
