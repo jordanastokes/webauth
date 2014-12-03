@@ -83,6 +83,7 @@ header h1 {
   width:500px;
   margin-left:50px;
   padding-bottom:50px;
+  float: left;
 }
 
 header nav {
@@ -133,6 +134,10 @@ section ul li {
     
 .contact {
      text-align: center;
+     }
+     
+#about {
+     float: right;
      }
 
 #thumbnail {
