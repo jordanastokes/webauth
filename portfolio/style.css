@@ -134,7 +134,7 @@ section ul li {
      text-align: center;
      }
 
-.thumbnail {
+#thumbnail {
       height:150px;
       width:150px;
       float:left;
