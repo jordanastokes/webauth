@@ -153,6 +153,15 @@ section ul li {
      text-justify:interword;
      padding-bottom:10px;
 }
+
+#dh {
+     text-align:justify;
+     color:#050505;
+     font-size:14px;
+     font-family:Garamond;
+     text-justify:interword;
+     padding-bottom:10px;
+     }
      
 #resume {
     display: block;
