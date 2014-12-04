@@ -154,6 +154,15 @@ section ul li {
      padding-bottom:20px;
 }
 
+#title {
+     text-align:justify;
+     color:#050505;
+     font-size:16px;
+     font-family:Garamond;
+     text-justify:interword;
+     padding-bottom:20px;
+     }
+
 #dh {
      text-align:justify;
      color:#050505;
