@@ -146,8 +146,8 @@ section ul li {
       }
       
 #projects {
-     text-align:justify
-     color:#050505
+     text-align:justify;
+     color:#050505;
      font-size:12px;
      font-family:Garamond;
      text-justify:interword;
