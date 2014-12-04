@@ -6,6 +6,9 @@ body {
 div {
   background-color:#FFFFFF;
   width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  height:auto;
 }
 
 #head {
