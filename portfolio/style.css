@@ -129,8 +129,11 @@ section ul li {
     }
     
 .contact {
-     text-align: center;
-     width: 500px;
+     text-align:center;
+     width: 600px;
+     text-align:justify;
+     text-justify; interword;
+    
      }
      
 .email {
