@@ -8,9 +8,16 @@ div {
   width:100%;
   margin-left:auto;
   margin-right:auto;
-  height:auto%;
+  height:auto;
 }
 
+#home div{
+  background-color:#FFFFFF;
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  height:700px;
+ 
 #head {
   text-align:center;
   font-size:12px;
@@ -81,6 +88,7 @@ header h1 {
   margin-left:50px;
   margin-right:50px;
   padding-bottom:50px;
+  height: 
   float: left;
 }
 
@@ -111,6 +119,7 @@ header nav ul li {
    text-align:left;
    width:250px;
    height:175px;
+   margin-left:50px;
    }
    
 section ul li {
@@ -122,6 +131,7 @@ section ul li {
     text-align:center;
     width:250px;
     height:400px;
+    margin-left:50px;
     }
 
 #icon {
