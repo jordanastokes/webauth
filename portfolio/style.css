@@ -32,7 +32,7 @@ section p:first-child {
 
 section p:nth-child(3) {
   font-size:20px;
-  font-family: Garamond, sans-serif;
+  font-family: Garamond;
 }
 
 h1, nav {
@@ -134,6 +134,7 @@ section ul li {
      width: 600px;
      margin-right:100px;
      margin-left:250px;
+     font-family: Garamond;
      }
      
 .email {
