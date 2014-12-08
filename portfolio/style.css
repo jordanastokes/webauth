@@ -220,7 +220,6 @@ a:active {
 -o-transition-duration: 0.5s;
 opacity: 0.7;
 margin:400px -35px -440px 0px;
-
 }
 
 .hovergallery:hover{
@@ -233,5 +232,5 @@ opacity: 0;
 img{
   width:250px;
   height:250px;
-  }
+  
      
