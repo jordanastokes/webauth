@@ -81,7 +81,6 @@ header h1 {
   margin-left:50px;
   margin-right:50px;
   padding-bottom:50px;
-  height: 
   float: left;
 }
 
@@ -138,6 +137,7 @@ section ul li {
      width: 600px;
      font-size: 15px;
      font-family: Garamond, sans-serif;
+     margin:auto;
      }
      
 .email {
