@@ -11,13 +11,6 @@ div {
   height:auto;
 }
 
-#home div{
-  background-color:#FFFFFF;
-  width:100%;
-  margin-left:auto;
-  margin-right:auto;
-  height:700px;
- 
 #head {
   text-align:center;
   font-size:12px;
@@ -220,9 +213,9 @@ a:active {
     
 }    
 
-
-<!--img{
+{
   width:250px;
   height:250px;
-  -->
+  }
+
      
