@@ -61,6 +61,7 @@ h2 {
   height: 75px;
   text-align: center;
   width:375px;
+  margin:auto;
 }
 
 header {
@@ -213,7 +214,7 @@ a:active {
     
 }    
 
-{
+img {
   width:250px;
   height:250px;
   }
