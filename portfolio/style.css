@@ -209,4 +209,30 @@ a:active {
     color: #F65317
     
 }    
+
+
+.hovergallery img{
+-webkit-transform:scale(0.8);
+-moz-transform:scale(0.8);
+-o-transform:scale(0.8);
+-webkit-transition-duration: 0.5s;
+-moz-transition-duration: 0.5s;
+-o-transition-duration: 0.5s;
+opacity: 0.7;
+margin:400px -35px -440px 0px;
+
+}
+
+.hovergallery img:hover{
+-webkit-transform:scale(1.1);
+-moz-transform:scale(1.1);
+-o-transform:scale(1.1);
+box-shadow:5px 0px 0px gray;
+-webkit-box-shadow:5px 0px 0px gray;
+-moz-box-shadow:5px 0px 0px gray;
+opacity: 5;
+}
+img{
+  width:250px;
+  height:250px;
      
