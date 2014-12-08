@@ -18,7 +18,7 @@ div {
 p {
   font-size:15px;
   color:#050505;
-  text-align:right;
+  text-align:justify;
   margin-right: 50px;
   font-family: Garamond, sans-serif;
 }
@@ -55,7 +55,6 @@ h2 {
    color:#F65317;
    text-align:center;
    }
-   
 
 
 .head {
