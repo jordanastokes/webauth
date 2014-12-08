@@ -146,7 +146,7 @@ section ul li {
     }
      
 
-#thumbnail {
+.thumbnail {
       height:200px;
       width:140px;
       float:left;
@@ -156,7 +156,7 @@ section ul li {
       padding-bottom;80px;
       }
       
-#projects {
+.projects {
      text-align:justify;
      color:#050505;
      font-size:14px;
@@ -165,7 +165,7 @@ section ul li {
      padding-bottom:20px;
 }
 
-#title {
+.title {
      text-align:justify;
      color:#050505;
      font-size:18px;
@@ -174,7 +174,7 @@ section ul li {
      padding-bottom:5px;
      }
 
-#dh {
+.dh {
      text-align:justify;
      color:#050505;
      font-size:14px;
