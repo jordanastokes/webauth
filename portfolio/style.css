@@ -147,6 +147,10 @@ section ul li {
     color:#F65317
     }
      
+section.landing {
+    height:800px;
+    }
+    
 
 .thumbnail {
       height:200px;
