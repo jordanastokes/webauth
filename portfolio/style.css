@@ -15,10 +15,9 @@ div {
     height:75px;
     width:400px;
     background-color:#DED8D6;
-    margin-bottom:20px;
     }
 
-.head {
+.head p{
   text-align:center;
   font-size:12px;
   background-color:#DED8D6;
