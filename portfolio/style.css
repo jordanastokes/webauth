@@ -57,9 +57,8 @@ h2 {
    }
 
 
-.head {
+img.head {
   height: 75px;
-  text-align: center;
   width:375px;
   margin:auto;
 }
