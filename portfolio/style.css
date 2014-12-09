@@ -23,13 +23,14 @@ p {
   font-family: Garamond, sans-serif;
 }
 
-section p:first-child {
+
+.heading {
   font-size: 48px;
   text-align:center;
   clear:both;
   font-family:Garamond, sans-serif;
   color:#9B9595;
-}
+  }
 
 section p:nth-child(3) {
   font-size:18px;
