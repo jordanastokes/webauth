@@ -31,6 +31,10 @@ p {
   font-family:Garamond, sans-serif;
   color:#9B9595;
   }
+  
+div section li {
+   float: left;
+   }
 
 section p:nth-child(3) {
   font-size:18px;
