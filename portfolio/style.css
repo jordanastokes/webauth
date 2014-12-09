@@ -12,8 +12,8 @@ div {
 }
 
 .head img {
-    height:75px;
-    width:400px;
+    height:65px;
+    width:370px;
     background-color:#DED8D6;
     }
 
@@ -143,7 +143,7 @@ section ul li {
     height:375px;
     }
 
-.icon {
+#icon {
     width: 40px;
     height: 40px;
     float: right;
