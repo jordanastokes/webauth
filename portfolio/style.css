@@ -17,9 +17,10 @@ div {
     background-color:#DED8D6;
     }
 
-#head {
+.head {
   text-align:center;
   font-size:12px;
+  background-color:#DED8D6;
 }
 p {
   font-size:15px;
