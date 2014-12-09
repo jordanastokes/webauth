@@ -11,13 +11,13 @@ div {
   height:auto;
 }
 
-.head img {
+div.head img {
     height:75px;
     width:400px;
     background-color:#DED8D6;
     }
 
-.head p{
+div.head p{
   text-align:center;
   font-size:12px;
   background-color:#DED8D6;
