@@ -30,7 +30,10 @@ p {
   font-family: Garamond, sans-serif;
 }
 
-
+footer {
+   text-align:center;
+   }
+   
 .heading {
   font-size: 48px;
   text-align:center;
