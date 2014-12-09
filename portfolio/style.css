@@ -11,6 +11,11 @@ div {
   height:auto;
 }
 
+.head img {
+    height:250px;
+    width:300px;
+    }
+
 #head {
   text-align:center;
   font-size:12px;
