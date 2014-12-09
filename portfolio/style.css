@@ -161,7 +161,7 @@ section ul li {
 .projects {
      text-align:justify;
      color:#050505;
-     font-size:14px;
+     font-size:12px;
      font-family:Garamond, sans-serif;
      text-justify:interword;
      padding-bottom:20px;
@@ -193,6 +193,11 @@ section ul li {
     height:1050px;
     text-align:center;
     }
+
+article {
+    float: left;
+    }
+
      
  a:link {
     text-decoration: none;
