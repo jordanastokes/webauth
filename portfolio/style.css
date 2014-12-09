@@ -64,6 +64,12 @@ h2 {
   margin:auto;
 }
 
+
+#head {
+   width:auto;
+   margin:auto;
+   }
+
 header {
   height:100px;
   border-bottom: 3px solid #F65317;
