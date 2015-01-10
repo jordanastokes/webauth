@@ -9,13 +9,14 @@ div {
   margin-left:auto;
   margin-right:auto;
   height:auto;
+  padding-bottom: 10px;
 }
 
 div.head img {
     height:50px;
     width:275px;
     background-color:#DED8D6;
-    }
+}
 
 #head {
   text-align:center;
