@@ -11,7 +11,7 @@ div {
   height:auto;
 }
 
-.head img {
+div.head img {
     height:50px;
     width:275px;
     background-color:#DED8D6;
