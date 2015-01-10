@@ -1,8 +1,6 @@
 body {
 	background-color:#DED8D6;
 	color:#c0c0c0;
-	margin:auto;
-	padding:10px;
 	}
 
 div {
@@ -10,20 +8,17 @@ div {
   width:100%;
   margin-left:auto;
   margin-right:auto;
-  height:auto
-  padding-bottom: 10px;
+  height:auto;
 }
 
-div.head img {
-    height:55px;
-    width:375px;
-    background-color:#DED8D6;
+.head img {
+    height:250px;
+    width:300px;
     }
 
-.head {
+#head {
   text-align:center;
   font-size:12px;
-  background-color:#DED8D6;
 }
 p {
   font-size:15px;
@@ -33,7 +28,7 @@ p {
   font-family: Garamond, sans-serif;
 }
 
-   
+
 .heading {
   font-size: 48px;
   text-align:center;
